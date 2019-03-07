@@ -1,7 +1,7 @@
 ---
-name:Portrait Original
+name:
 garment_type: top
-price:1300
+price:
 sku:
 description:
 sizes:
