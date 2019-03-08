@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: The Hues Store
-url: "https://thehuesstore.github.io/thehuesstore/"
+title: The Hues Shop
+url: "https://thehuesshop.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -12,12 +12,12 @@ google_maps_javascript_api_key:
 logo: /siteicon.png
 description: Art Store of Hues on My Canvas
 author:
-  name: The Hues Store
+  name: The Hues Shop
   email: barua.aindriya@gmail.com
   twitter: fur # twitter username without the @ symbol
   #phone: "+1 23456789"
 social:
-  name: Fur Template
+  name: The Hues Shop
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 
