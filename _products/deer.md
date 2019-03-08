@@ -1,32 +1,31 @@
 ---
-name: Sacha the Deer
+name: Portrait
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  Blah blah something here
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  
 garment_type:
-price: '9.00'
-sku: deer
-stock: 10
+price: 'Subject to Change'
+sku: portrait 
+stock: 
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - A4
+  - A3
+  - Some size
+  - blah size
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/deer/black.jpg
+    image: /images/products/portrait/1.jpg
   - name: Blue
     color: '#39589e'
-    image: /images/products/deer/blue.jpg
+    image: /images/products/portrait/2.jpg
   - name: Clay
     color: '#9c5145'
-    image: /images/products/deer/clay.jpg
+    image: /images/products/portrait/3.jpg
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+    image: /images/products/portrait/4.jpg
 ---
